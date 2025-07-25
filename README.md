@@ -33,4 +33,4 @@ Each group of three characters defines the rights for that user class:
 The goal is to set a file's permissions to `rwxrwxr-x`.
 These permission translates to "Read-Write-Execute" to the owner of the file and "Read-Write-Execute" to the group of the owner and "Read-Execute" to other users.
 
-<img width="1000" height="800" alt="brave_1972" src="https://github.com/user-attachments/assets/4ec998f9-1b3f-4f45-b6ec-acf9e3396bad"/>
+<img width="1105" height="945" alt="1979" src="https://github.com/user-attachments/assets/24e3e223-da08-4179-a53d-57a5c68e56c0" />
