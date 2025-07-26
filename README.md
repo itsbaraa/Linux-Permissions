@@ -1,6 +1,6 @@
 # Linux Permissions
 
-This project explains the fundamentals of the Linux file permission system, provides a visual flowchart, and how to set file permissions.
+This repo explains the fundamentals of the Linux file permission system, provides a visual flowchart, and how to set file permissions.
 
   
 ## File Permissions
